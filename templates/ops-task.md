@@ -1,3 +1,5 @@
+<!-- tags: ops, deploy, infra, task -->
+
 # Ops Task
 > Deployments, infrastructure, config changes, maintenance
 

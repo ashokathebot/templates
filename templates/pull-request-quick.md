@@ -1,3 +1,5 @@
+<!-- tags: pr, github, quick -->
+
 # Quick PR
 > For small changes — typo fixes, config tweaks, one-liners. Skip the ceremony.
 

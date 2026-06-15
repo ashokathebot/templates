@@ -1,3 +1,5 @@
+<!-- tags: coding, task, pipeline -->
+
 # Coding Task
 > Pipeline: **planner → coder → code-reviewer**
 

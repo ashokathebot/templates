@@ -1,3 +1,5 @@
+<!-- tags: bug, report, coding -->
+
 # Bug Report
 
 ## Summary
